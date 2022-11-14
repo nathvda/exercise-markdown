@@ -36,7 +36,6 @@ Il est également possible d'ajouter un numéro avec la liste, en précédant ce
 2. Des épices
 1. Du chocolat chaud
 2. Des chewing gums.
-=======
 
 ## Création de listes dans une liste
 
@@ -61,3 +60,25 @@ il vous suffit ensuite d'appuyer sur la touche tabulation pour créer un espace 
 
 Pour créer des titres il suffit de mettre un certain nombre de "#" pour déterminer à quel niveau de grandeur le titre doit être. 
 "#" équivaut à un titre principal "####" équivaut à un sous-titre. 
+
+# Quelques liens:
+
+[Markdown sur Wikipédia](https://fr.wikipedia.org/wiki/Markdown)  
+[Syntaxe de base](https://www.markdownguide.org/basic-syntax)
+
+![schéma](https://res.cloudinary.com/practicaldev/image/fetch/s--0oVzsRoO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/24ynczvac3a37kdelk34.png)
+
+![We dit it!](https://media.giphy.com/media/0Gyc4BR3VPADmrmfXC/giphy.gif)
+
+# Voici un exemple de code mis en forme:
+
+    <!DOCTYPE html>
+        <html>
+            <body>
+
+            <h1>My First Heading</h1>
+
+            <p>My first paragraph.</p>
+
+            </body>
+        </html>
