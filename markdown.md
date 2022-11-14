@@ -36,3 +36,23 @@ Il est également possible d'ajouter un numéro avec la liste, en précédant ce
 2. Des épices
 1. Du chocolat chaud
 2. Des chewing gums.
+
+
+# Quelques liens:
+
+[Markdown sur Wikipédia](https://fr.wikipedia.org/wiki/Markdown)
+[Syntaxe de base](https://www.markdownguide.org/basic-syntax)
+
+
+# Voici un exemple de code mis en forme:
+
+    <!DOCTYPE html>
+        <html>
+            <body>
+
+            <h1>My First Heading</h1>
+
+            <p>My first paragraph.</p>
+
+            </body>
+        </html>
