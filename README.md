@@ -1,7 +1,7 @@
 # README
 
 [LIEN VERS MARKDOWN](markdown.md)
-<<<<<<< HEAD
+
 --- 
 
 ## Table des matières
