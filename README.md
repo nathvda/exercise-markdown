@@ -24,5 +24,10 @@ C'est un repository collaboratif destiné à notre apprentissage.
 
 Ce projet Markdown a été fait le 14 novembre 2022 lors de notre 3ème jour à la formation Becode. Il avait pour but de nous familiariser avec son fonctionnement et nous permettre notre première création. 
 
+## Où sommes-nous? Que faisons-nous?
+
+Nous sommes une équipe de développeur web en formation chez [BeCode](https://becode.org/). 
+
+Nous travaillons de manière individuelle en télé-travail et réunissons notre travail à l'aide de l'outil `git`.
 
 
