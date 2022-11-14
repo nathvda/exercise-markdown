@@ -10,10 +10,10 @@
 1. [Qu'est-ce que c'est?](#quest-ce-que-cest)
 
 ## Liste des membres du repository.
-- Johathan Manes [github](https://github.com/manesjonathan)
-- Marnie Benalia [github](https://github.com/MarnieBenalia)
-- Nathalie Vanden Abeele [github](https://github.com/nathvda)
-- Quentin Bource [github](https://github.com/Quentin-Bource)
+- Johathan Manes ([github](https://github.com/manesjonathan))
+- Marnie Benalia ([github](https://github.com/MarnieBenalia))
+- Nathalie Vanden Abeele ([github](https://github.com/nathvda))
+- Quentin Bource ([github](https://github.com/Quentin-Bource))
 
 ## Qui sommes-nous ?
 Nous sommes une équipe de quatre stagiaires développeurs junior et nous travaillons en collaboration sur ce repository afin d'apprendre à utiliser git et github, mais également pour nous entraîner à travailler sur les fichiers rédigés en MarkDown. 
