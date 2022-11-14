@@ -1,3 +1,3 @@
 # MARKDOWN
 
-[LIEN VERS README](markdown.md)
+[LIEN VERS README](README.md)
