@@ -40,7 +40,7 @@ Il est également possible d'ajouter un numéro avec la liste, en précédant ce
 
 # Quelques liens:
 
-[Markdown sur Wikipédia](https://fr.wikipedia.org/wiki/Markdown)
+[Markdown sur Wikipédia](https://fr.wikipedia.org/wiki/Markdown)  
 [Syntaxe de base](https://www.markdownguide.org/basic-syntax)
 
 
